@@ -41,7 +41,7 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         ],
         [
             InlineKeyboardButton(
-                text="❣ 𝑱𝑶𝑰𝑵 ❣", url=config.SUPPORT_GROUP
+                text="❣ 𝑱𝑶𝑰𝑵 ❣", https://t.me/About_Info_Devil
             ),
             InlineKeyboardButton(
                 text="🍷 𝑶𝑾𝑵𝑬𝑹 🍷", user_id=OWNER 
